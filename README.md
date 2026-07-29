@@ -31,6 +31,5 @@ Each directory contains solutions organized according to the official CSES categ
 - Maintain a structured archive of solved problems.
 
 ## Author
-Parth
 
 **Parth**
